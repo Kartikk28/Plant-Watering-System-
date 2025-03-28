@@ -1,2 +1,2 @@
-# Plant-Watering-System-
-Using JAVA and an Embedded System Arduino , created a Plant Watering System
+# Automated Plant-Watering-System-
+Using JAVA and an Embedded System Arduino , created a Plant Watering System. With the use of moisture sensors into the soil, it measures if there is already enough water in the plant in order to prevent the plant from overwatering and getting damanged. When the moisture sensor reached a certain threshold value( measured for each dry, wet , and normal) we can stop the hydro pump from supplying more water. It is a process used over large areas to prevent human intervention and hardwork to manually check all the plants and rewater them again and again.
